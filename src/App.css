@@ -4,3 +4,16 @@
   padding: 2rem;
   text-align: center;
 }
+
+.card{
+  width: 300px;
+  
+}
+
+.card img{
+  width: 100%;
+}
+
+.hidden{
+  /* display: none; */
+}
